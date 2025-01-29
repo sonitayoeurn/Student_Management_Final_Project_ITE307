@@ -61,7 +61,7 @@ Ensure that both PHP and MySQL are installed on your PC. You can also use XAMPP,
 ---
 
 #### **Step 4**: Run the Application  
-- Visit the URL: `http://localhost/school-management-system`  
+- Visit the URL: `http://localhost/student-management-system`  
 - Access the system via the given URL to view the live website.
 
 ---
